@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "chistedeldia",
+    "name": "Chiste del día",
     "slug": "chistedeldia",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -19,7 +19,8 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.nekoapps.chistedeldia"
     },
     "web": {
       "output": "static",
@@ -27,6 +28,7 @@
     },
     "plugins": [
       "expo-router",
+      "expo-notifications",
       [
         "expo-splash-screen",
         {
@@ -35,6 +37,9 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff",
           "dark": {
+            "image": "./assets/images/splash-icon.png",
+            "imageWidth": 200,
+            "resizeMode": "contain",
             "backgroundColor": "#000000"
           }
         }
@@ -43,6 +48,12 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "8f889ca8-2037-44fb-abaa-6fd887b4b359"
+      }
     }
   }
 }
