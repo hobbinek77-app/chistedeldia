@@ -1,6 +1,7 @@
 export const jokes = [
 '¿Por qué el libro de matemáticas está triste? Porque tiene demasiados problemas.',
 '¿Por qué fue el queso al hospital? Para ser un queso curado.',
+'¿Por qué fue una caja al gimnasio? Para ser una caja fuerte.',
 '¿Qué le dice una impresora a otra? Esa hoja es tuya o es una impresion mia.',
 '¿Cómo se llama un boomerang que no vuelve? Palo.',
 '¿Qué le dice un techo a otro? Techo de menos.',
