@@ -2,7 +2,8 @@
   "expo": {
     "name": "Chiste del día",
     "slug": "chistedeldia",
-    "version": "1.0.0",
+    "owner": "hobbinek",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "chistedeldia",
@@ -20,7 +21,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.nekoapps.chistedeldia"
+      "package": "com.hobbinek.chistedeldia"
     },
     "web": {
       "output": "static",
@@ -52,7 +53,7 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "8f889ca8-2037-44fb-abaa-6fd887b4b359"
+        "projectId": "83c9a0ba-10f8-41c8-8ac4-9e696f5a63ce"
       }
     }
   }

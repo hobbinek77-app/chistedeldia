@@ -25,7 +25,7 @@ export default function AboutScreen() {
       <ThemedView style={styles.acerca}>
         <View>
           <ThemedText style={styles.centrarTexto}>Creado por Hobbinek. 2025</ThemedText>
-          <ThemedText style={styles.centrarTexto}>v 1.2</ThemedText>
+          <ThemedText style={styles.centrarTexto}>v 1.0.1</ThemedText>
           <View style={styles.logoWrapper}>
             <Image
               source={logoSource}
