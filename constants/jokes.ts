@@ -253,13 +253,13 @@ export const jokes = [
 '- ¿Cómo se dice pobre en chino?\nChin unchentavo.',
 '- ¿Dónde cuelga Superman su ropa ?\nEn superchero.',
 '- ¿Qué es un asterisco?\nUn punto electrocutado.',
-'CÓMO SE DICE...EN CHINO?\nPelo sucio= chin-champú\nPobre= chin lú, chin agua y chin gá\nHuérfano= chinchupale chinchumale\nHombre delgado= fla ku ching\nViudo= chin chu concha\nHombre que tiene frío= chin chu poncho\nZapato sucio= tafuchi tuchancla\nDescalzo= chin chinela',
-'CÓMO SE DICE...EN JAPONÉS...?\nElectricista= yokito fokito\nAdivino= komosabe\nAl contado= taka-taka\nBombero= ataka layama\nCoche roto= tu toyota taroto\nBomba atómica= nikaka keda\nCafé amargo= takara lazukar\nDiarrea= kagasagua\nEspejo= ai toi\nHemorroides= tukulito sakayama\nMe robaron la moto= yanoveo miyamaha',
-'CÓMO SE DICE...EN ÁRABE...?\nAmetralladora= alla va la bala atajala\nBésame= mojame lajeta\nDiarrea= alud al-kagar',
-'CÓMO SE DICE...EN ALEMÁN...?\nSuegra= ajjjjj\nAbrir la puerta= destranken\n40 años de casados= jodansen',
-'CÓMO SE DICE...EN GUARANÍ...?\nCaminaré= andaré porai\nDeber dinero= yatepagaré\nDetective= averiguaré porai\nMe voy a ir= mepiraré',
-'CÓMO SE DICE...EN FRANCÉS...?\nDesnudo= se la ví\nTuve cien hijos= parisienne',
-'CÓMO SE DICE...EN ZULÚ...?\nCreo que estoy embarazada= bombo supongo\nDiarrea = abunda lacaca\nHicieron trampa en el casino= ubotongo enlatimba',
+'¿CÓMO SE DICE...EN CHINO?\nPelo sucio= chin-champú\nPobre= chin lú, chin agua y chin gá\nHuérfano= chinchupale chinchumale\nHombre delgado= fla ku ching\nViudo= chin chu concha\nHombre que tiene frío= chin chu poncho\nZapato sucio= tafuchi tuchancla\nDescalzo= chin chinela',
+'¿CÓMO SE DICE...EN JAPONÉS...?\nElectricista= yokito fokito\nAdivino= komosabe\nAl contado= taka-taka\nBombero= ataka layama\nCoche roto= tu toyota taroto\nBomba atómica= nikaka keda\nCafé amargo= takara lazukar\nDiarrea= kagasagua\nEspejo= ai toi\nHemorroides= tukulito sakayama\nMe robaron la moto= yanoveo miyamaha',
+'¿CÓMO SE DICE...EN ÁRABE...?\nAmetralladora= alla va la bala atajala\nBésame= mojame lajeta\nDiarrea= alud al-kagar',
+'¿CÓMO SE DICE...EN ALEMÁN...?\nSuegra= ajjjjj\nAbrir la puerta= destranken\n40 años de casados= jodansen',
+'¿CÓMO SE DICE...EN GUARANÍ...?\nCaminaré= andaré porai\nDeber dinero= yatepagaré\nDetective= averiguaré porai\nMe voy a ir= mepiraré',
+'¿CÓMO SE DICE...EN FRANCÉS...?\nDesnudo= se la ví\nTuve cien hijos= parisienne',
+'¿CÓMO SE DICE...EN ZULÚ...?\nCreo que estoy embarazada= bombo supongo\nDiarrea = abunda lacaca\nHicieron trampa en el casino= ubotongo enlatimba',
 ];
 
 export function getRandomJoke(exclude?: string): string {
